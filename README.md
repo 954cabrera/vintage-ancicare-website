@@ -1,144 +1,66 @@
-# vintage-ancicare-website
-AnciCare PPO corporate website from 1999 - Complete original files and assets
+# AnciCare PPO - Historic Website Archive (1997-1999)
 
-# AnciCare PPO - 1999 Corporate Website
+A complete preservation of AnciCare PPO's website evolution, documenting the transformation from innovative tech startup to established corporate service provider.
 
-A complete preservation of the AnciCare PPO corporate website from 1999, including original HTML, JavaScript, images, and assets.
+## 🌌 1997 "Space Age" Version
+**Location**: `1997-space-version/`
 
-## 🏥 About AnciCare PPO
+### Characteristics:
+- **Dark cosmic aesthetic** with space-themed backgrounds
+- **Cutting-edge web design** for its era
+- **Microsoft FrontPage 4.0** development
+- **Tech-focused presentation** emphasizing innovation
+- **Experimental design philosophy** - web as "wild west"
 
-AnciCare PPO was a nationwide medical imaging network specializing in MRI, CT scans, and diagnostic imaging services for workers' compensation and auto insurance cases. The company was ranked #210 in Inc. Magazine's 500 Fastest-Growing Companies in America.
+### Historical Context:
+- Early commercial web presence (pre-dot-com crash)
+- Space themes suggested "cutting edge" technology
+- Dark backgrounds were trendy for making colorful elements pop
+- Represented the experimental nature of early web design
 
-## 🌐 Website Features (1999)
+## 🏢 1999 "Corporate Professional" Version  
+**Location**: `1999-corporate-version/`
 
-- **Responsive dropdown navigation** with comprehensive site map
-- **Image rollover effects** using JavaScript and CSS
-- **Animated marquee text** ("Nationwide Access!")
-- **Multi-column layout** using HTML tables
-- **Services showcased**:
-  - MRI Network for Workers' Compensation
-  - Second Opinion Service (SOS)
-  - Pre-Certification Services (PCS)
-  - Auto Medical Imaging (AMI)
+### Characteristics:
+- **Professional business language** throughout
+- **Corporate branding** (Corporate Profile, Fact Sheet, Headquarters)
+- **Microsoft FrontPage 12.0** - more mature tooling
+- **Organized service structure** with clear navigation
+- **Business credibility focus** - especially important for medical/insurance industry
 
-## 💻 Technical Details
+### Business Evolution:
+- **Inc. Magazine #210** fastest-growing companies ranking
+- **Complete content restructuring** toward professional services
+- **Mature web standards** adoption
+- **Corporate terminology** throughout (50+ references to "professional/corporate")
 
-### Technology Stack (1999)
-- **HTML 4.0** with table-based layouts
-- **JavaScript 1.2** for interactivity and browser detection
-- **Microsoft FrontPage 12.0** for development
-- **Dreamweaver-style** image preloading and rollovers
-- **TheCounter.com** visitor tracking integration
+## 🏥 Company Background
+- **Founded**: 1994
+- **Industry**: Medical imaging network (MRI, CT, Bone Scans)
+- **Specialization**: Workers' compensation and auto insurance
+- **Geographic Reach**: Nationwide network
+- **Business Model**: PPO preferred provider rates with case management
 
-### Browser Support
-- Netscape Navigator 4.0+
-- Internet Explorer 4.0+
-- Automatic browser detection and redirection
+## 📈 Historical Significance
 
-### File Structure
-```
-├── index.html (main homepage)
-├── IMAGES/ (all graphics and photos)
-│   ├── logos, navigation buttons
-│   ├── MRI unit photos
-│   ├── background textures
-│   └── company imagery
-├── company.html, solution.html, etc.
-└── JavaScript includes
-```
+This archive represents:
+- **Complete digital transformation** of early commercial web (1997→1999)
+- **Medical industry digitization** journey
+- **Cultural shift** from "cool tech" to "serious business" online
+- **Web development evolution** - experimental to professional
+- **Business maturation** reflected in online presence
 
-## 🎨 Design Characteristics
+## 🛠️ Technical Evolution
+- **1997**: FrontPage 4.0, simple JavaScript, experimental design
+- **1999**: FrontPage 12.0, sophisticated interactions, corporate UX
 
-### Visual Style
-- **Black background** with high contrast
-- **Corporate color scheme**: Gold (#FFCC00), Blue (#0099FF), White
-- **Professional medical imaging** aesthetic
-- **Late 90s web design** patterns and conventions
+## 🌐 Live Versions
+- **Current**: 1997 Space Version (accidental preservation)
+- **GitHub Pages**: https://954cabrera.github.io/vintage-ancicare-website
 
-### User Experience
-- **Comprehensive navigation** via dropdown menus
-- **Clear service differentiation** with dedicated sections
-- **Professional credibility** through Inc. 500 ranking display
-- **Contact information** prominently featured
-
-## 📈 Business Context
-
-### Company Positioning
-- **Nationwide network** of medical imaging providers
-- **Specialized focus** on workers' comp and auto insurance
-- **Quality assurance** through second opinion services
-- **Growth trajectory** (Inc. 500 recognition)
-
-### Target Market
-- Insurance companies
-- Workers' compensation administrators
-- Medical case managers
-- Healthcare providers
-
-## 🔧 Running the Website
-
-### Original Environment
-This website was designed to run on standard web servers of 1999 with no special requirements beyond basic HTML/JavaScript support.
-
-### Modern Usage
-To view this website today:
-1. Download all files maintaining folder structure
-2. Place in web server directory
-3. Access via `index.html`
-4. Note: Some external services (TheCounter) no longer functional
-
-## 📝 Historical Significance
-
-This website represents:
-- **Early commercial web presence** (pre-dot-com crash)
-- **Medical industry digital adoption** in the late 1990s
-- **Web development practices** of the era
-- **Corporate internet strategy** evolution
-
-## 🛠️ Development Notes
-
-### Original Development Environment
-- **Microsoft FrontPage 12.0**
-- **Windows-based development**
-- **Manual image optimization**
-- **Cross-browser testing** for Netscape/IE compatibility
-
-### Code Characteristics
-- Extensive use of HTML tables for layout
-- Inline JavaScript for interactivity
-- Meta tags optimized for 1999 search engines
-- Progressive enhancement techniques
-
-## 📊 Analytics & Tracking
-
-The original site included:
-- **TheCounter.com** visitor statistics
-- **Screen resolution detection**
-- **Browser capability detection**
-- **Referrer tracking**
-
-## 🔗 Navigation Structure
-
-- **Company Information** (overview, team, clients, FAQ)
-- **Solutions** (MRI network, pre-certification, second opinions)
-- **Network** (PPO details, development, provider relations)
-- **Services** (coordination, billing, reporting, quality)
-- **News** (articles, press releases, events, awards)
-
-## 📄 Legal & Copyright
-
-© 1999 AnciCare PPO, Inc. All Rights Reserved.
-*Archived for historical and educational purposes*
-
-## 🎯 Preservation Goals
-
-This repository serves to:
-- **Document web development history**
-- **Preserve corporate digital heritage**
-- **Demonstrate 1990s design patterns**
-- **Maintain functional historical website**
+## 📝 Development Notes
+Both versions represent authentic early commercial web development, showcasing how businesses learned to balance innovation with credibility in the pioneering days of the internet.
 
 ---
-
-*Website originally developed in 1999 | Archived in 2025*
-*Part of the vintage web preservation project*
+*Website originally developed 1997-1999 | Archived 2025*  
+*Part of vintage web preservation project*
