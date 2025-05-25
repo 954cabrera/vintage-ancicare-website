@@ -1,0 +1,471 @@
+<!--  9/9/99 12:13:28 PM  -->
+
+<html> 
+<head> 
+<meta name="description" content="Welcome to AnciCare PPO® Online's Video Store!
+Everything you like about your favorite video store is now only a click
+away---">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="keywords" content="AnciCare PPO, New Releases, Coming Soon,
+Guaranteed , Contests, Video, Movies, BLOCKBUSTER ENTERTAINMENT AWARDS, Fast Foward GiftCards,
+GiftCards, Blockbuster Dancing Baby, Video Games, Just For Fun, Video News, Only at
+BLOCKBUSTER, BLOCKBUSTER VIDEO, Previewed Video, BLOCKBUSTER, Blockbuster Video, store,
+buy, purchase, sell, video, videos, tape, tapes, videotape, videotapes, sale, sales, rent, rental, rentals,
+movie, movies, film, films, dvd, cassete, cassettes, previews, clip, clips, trailer, trailers, guaranteed, new releases, feature, feature, svhs, entertainmentdisc, cinema, homevideo, dvds, laser,mlaserdisk, laserdisks, laserdisc, laserdiscs, game, games, videogames,
+Blockbuster Entertainment Awards, contests, survey, surveys, sweepstakes, pvt, previously, viewed, tapes,
+exclusive, music, cd, cds, country, western rock, rock and roll, swing, classical, pop, dance, soundtrack, film, actor, actress,
+director, screenplay, hollywood, stars, secure, order, mail order, action, adventure, martial arts,
+sci-fi, science fiction, fantasy, animation, western, war, cop, classic, comedy, funny, romantic, favorite,
+favorites, kid, kids, family, learning, drama, noir, cult, suspense, mystery, thriller, sports, exercise,
+music, science nature, documentary, documentaries, musical, musicals arts, art, house, horror, foreign,
+international, art house">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="title" content="AnciCare PPO">
+
+<title>AnciCare PPO </title>
+
+
+
+<script language="JavaScript" cyberversion="N1.2">
+<!--
+
+
+
+if (document.images) {            // Active Images
+
+toc1on = new Image;
+
+toc1on.src = "cgfx/giftbl.gif";
+
+toc2on = new Image;
+
+toc2on.src = "cgfx/softbl.gif";
+
+toc3on = new Image;
+
+toc3on.src = "cgfx/recbl.gif";
+
+toc4on = new Image;
+
+toc4on.src = "cgfx/wwiibl.gif";
+
+toc5on = new Image;
+
+toc5on.src = "cgfx/surveybl.gif";
+
+toc6on = new Image;
+
+toc6on.src = "cgfx/newsbl.gif";
+
+toc7on = new Image;
+
+toc7on.src = "cgfx/videoonbl.gif";
+
+toc8on = new Image;
+
+toc8on.src = "cgfx/instorebl.gif";
+
+toc9on = new Image;
+
+toc9on.src = "cgfx/musiconbl.gif";
+
+toc10on = new Image;
+
+toc10on.src = "cgfx/millionbl.gif";
+
+toc11on = new Image;
+
+toc11on.src = "cgfx/bbeabl.gif";
+
+toc1off = new Image;
+
+toc1off.src = "cgfx/giftwh.gif";
+
+toc2off = new Image;
+
+toc2off.src = "cgfx/softwh.gif";
+
+toc3off = new Image;
+
+toc3off.src = "cgfx/recwh.gif";
+
+toc4off = new Image;
+
+toc4off.src = "cgfx/wwiiwh.gif";
+
+toc5off = new Image;
+
+toc5off.src = "cgfx/surveywh.gif";
+
+toc6off = new Image;
+
+toc6off.src = "cgfx/newswh.gif";
+
+toc7off = new Image;
+
+toc7off.src = "cgfx/videoonwh.gif";
+
+toc8off = new Image;
+
+toc8off.src = "cgfx/instorewh.gif";
+
+toc9off = new Image;
+
+toc9off.src = "cgfx/musiconwh.gif";
+
+toc10off = new Image;
+
+toc10off.src = "cgfx/millionwh.gif";
+
+toc11off = new Image;
+
+toc11off.src = "cgfx/bbeawh.gif";
+
+
+
+}
+
+
+
+// Function to 'activate' images.
+
+
+
+function img_act(imgName) {
+
+        if (document.images) {
+
+            document[imgName].src = eval(imgName + "on.src");
+
+        }
+
+
+
+}
+
+
+
+// Function to 'deactivate' images.
+
+function img_inact(imgName) {
+
+        if (document.images) {
+
+            document[imgName].src = eval(imgName + "off.src");
+
+
+
+        }
+
+
+
+}
+
+
+
+// -->
+
+
+
+                </script>
+<script language="JavaScript" fptype="dynamicanimation">
+<!--
+function dynAnimation() {}
+function clickSwapImg() {}
+//-->
+</script>
+<script language="JavaScript1.2" fptype="dynamicanimation" src="animate.js">
+</script>
+</head> 
+
+<body marginheight="1" marginwidth="1" bgcolor="#000000" text="#ffffff" link="#ffcc00" vlink="#0099ff" alink="#d9ffff" background="bkgrd3.gif" onload="dynAnimation()" style="position: relative; left: -6">
+
+
+<!-- left navigation column -->
+
+<table cellpadding="2" cellspacing="0" border="0" width="164" valign="top" align="left"> 
+<tr> 
+<td valign="top" align="left" width="32"><img src="goyel.gif" border="0" hspace="2" style="float: left; position: relative; top: -14" width="28" height="22"> </td>
+<td valign="top" align="left" width="183"> <form name="form1"> <select name="menu1" size="1"
+onchange="parent.top.location.href=this.form.menu1.options[this.form.menu1.selectedIndex].value" style="position: relative; top: -14">
+<option value="javascript:history.go(0)">Site Map 
+<option value="c:\website\marimba\my webs\company.htm">Company Information 
+<option value="c:\website\marimba\my webs\overview.htm">- Company Overview 
+<option value="c:\website\marimba\my webs\manageme.htm">- Management Team 
+<option value="c:\website\marimba\my webs\client.htm">- Client Relations 
+<option value="c:\website\marimba\my webs\faqs.htm">- AnciCare FAQ 
+<option>------------- 
+<option value="c:\website\marimba\my webs\contact.htm">Contact AnciCare 
+<option value="c:\website\marimba\my webs\contact.htm">- Contact Information 
+<option value="c:\website\marimba\my webs\directio.htm">- Directions To AnciCare 
+<option value="c:\website\marimba\my webs\employme.htm">- Employment 
+<option>--------------- 
+<option value="c:\website\marimba\my webs\solution.htm">Solutions 
+<option value="C:\website\marimba\my webs\mis.htm">- Medical Imaging 
+<option value="C:\website\marimba\my webs\pcs.htm">- Pre-Certification 
+<option value="C:\website\marimba\my webs\sos.htm">- Second Opinion 
+<option value="c:\website\marimba\my webs\automc solutions.htm">- Auto Managed
+Care 
+<option>-------------- 
+<option value="C:\website\marimba\my webs\network.htm">Network 
+<option>- Introduction 
+<option value="c:\website\marimba\my webs\net require.htm">- Network
+Requirements 
+<option value="C:\website\marimba\my webs\evaluation.htm">- Evaluation
+Criteria's
+<option value="c:\website\marimba\my webs\site reviews.htm">- Site Reviews 
+<option>-------------
+<option value="c:\website\marimba\my webs\services.htm">Services 
+<option value="c:\website\marimba\my webs\case coord.htm">- Case Coordination 
+<option value="c:\website\marimba\my webs\bill review.htm">- Automated Bill
+Review 
+<option value="c:\website\marimba\my webs\perf rep.htm">- Performance Reporting 
+<option value="c:\website\marimba\my webs\quality improv.htm">- Quality
+Improvements 
+<option value="C:\website\marimba\my webs\guarantee.htm">- Guarantee of Service 
+<option>------------- 
+<option value="c:\website\marimba\my webs\news.htm">News 
+<option value="c:\website\marimba\my webs\articles.htm">- Articles and Reviews 
+<option value="c:\website\marimba\my webs\releases.htm">- Press Releases 
+<option value="c:\website\marimba\my webs\events.htm">- Event Calendar 
+<option value="c:\website\marimba\my webs\awards.htm">- Award Showcase
+<option value="c:\website\marimba\my webs\press.htm">- Press Center 
+<option>------------- 
+</select> </form> </td> </tr>
+
+<tr> <td valign="top" align="left" width="32"> </td>
+
+<td valign="top" align="left" width="183"> <form name="form2"> &nbsp; </form> </td> </tr>
+
+<tr><td align="left" valign="top" colspan="2" width="221"></td></tr>
+
+<tr>
+<td align="left"  valign="top" colspan="2" width="221">
+</td></tr>
+
+<tr><td align="left" colspan="2" width="221">
+</td></tr>
+
+<tr><td align="left" valign="top" colspan="2" width="221"><a onmouseover="document['fpAnimswapImgFP1'].imgRolln=document['fpAnimswapImgFP1'].src;document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].lowsrc;" onmouseout="document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].imgRolln" href="Company.htm"><img border="0" src="IMAGES/Dot%20Company%20Nav%20in%20White.gif" id="fpAnimswapImgFP1" name="fpAnimswapImgFP1" dynamicanimation="fpAnimswapImgFP1" lowsrc="IMAGES/Dot%20Company%20Nav%20in%20Yellow.gif" width="91" height="14"></a></td></tr>
+
+<tr><td align="left" valign="top" colspan="2" width="221"><a onmouseover="document['fpAnimswapImgFP2'].imgRolln=document['fpAnimswapImgFP2'].src;document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].lowsrc;" onmouseout="document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].imgRolln" href="Solution.htm"><img border="0" src="IMAGES/Dot%20Solutions%20Nav%20in%20White.gif" id="fpAnimswapImgFP2" name="fpAnimswapImgFP2" dynamicanimation="fpAnimswapImgFP2" lowsrc="IMAGES/Dot%20Solutions%20Nav%20in%20Yellow.gif" width="102" height="14"></a></td></tr>
+
+<tr><td align="left" valign="top" colspan="2" width="221"><a onmouseover="document['fpAnimswapImgFP3'].imgRolln=document['fpAnimswapImgFP3'].src;document['fpAnimswapImgFP3'].src=document['fpAnimswapImgFP3'].lowsrc;" onmouseout="document['fpAnimswapImgFP3'].src=document['fpAnimswapImgFP3'].imgRolln" href="Network.htm"><img border="0" src="IMAGES/Dot%20Network%20Nav%20in%20White.gif" id="fpAnimswapImgFP3" name="fpAnimswapImgFP3" dynamicanimation="fpAnimswapImgFP3" lowsrc="IMAGES/Dot%20Network%20Nav%20in%20Yellow.gif" width="94" height="14"></a></td></tr>
+
+<tr><td align="left" valign="top" colspan="2" width="221"><a onmouseover="document['fpAnimswapImgFP4'].imgRolln=document['fpAnimswapImgFP4'].src;document['fpAnimswapImgFP4'].src=document['fpAnimswapImgFP4'].lowsrc;" onmouseout="document['fpAnimswapImgFP4'].src=document['fpAnimswapImgFP4'].imgRolln" href="Services.htm"><img border="0" src="IMAGES/Dot%20Services%20Nav%20in%20White.gif" id="fpAnimswapImgFP4" name="fpAnimswapImgFP4" dynamicanimation="fpAnimswapImgFP4" lowsrc="IMAGES/Dot%20Services%20Nav%20in%20Yellow.gif" width="88" height="14"></a></td></tr>
+
+<tr>
+<td align="left" colspan="2" width="221">
+<a onmouseover="document['fpAnimswapImgFP5'].imgRolln=document['fpAnimswapImgFP5'].src;document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].lowsrc;" onmouseout="document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].imgRolln" href="News.htm"><img border="0" src="IMAGES/Dot%20News%20Nav%20in%20White.gif" id="fpAnimswapImgFP5" name="fpAnimswapImgFP5" dynamicanimation="fpAnimswapImgFP5" lowsrc="IMAGES/Dot%20News%20Nav%20in%20Yellow.gif" width="55" height="14"></a></TD></TR>
+
+<tr><td align="left" valign="top" colspan="2" width="221">
+  </td></tr>
+
+<tr><td align="left" valign="top" colspan="2" width="221">
+  <img border="0" src="DBU049.jpg" width="94" height="136">
+  </td></tr>
+</table>
+
+<!-- end left navigation column -->
+
+
+<!-- -------------------------------------------------------------------------------------------------------------------- -->
+
+
+
+<!-- spacer between left nav and middle column -->
+
+
+<table cellspacing="0" cellpadding="0" border="0" valign="top" align="left" width="8"> 
+<tr><td></td></tr></table> 
+
+
+<!-- end spacer -->
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------- -->
+
+<!-- begin middle column -->
+
+
+<table cellspacing="3" cellpadding="5" border="0" valign="top" align="left" width="260"> <tr> 
+<td valign="top" align="right" colspan="2"><img border="0" src="IMAGES/ancicaredotcomheading.gif" width="258" height="37"></td></tr>
+
+<tr><td align="right" valign="top" >
+
+
+<!-- ecom1 -->
+
+
+<table cellspacing="0" cellpadding="0" border="0" valign="top" align="middle"> 
+<tr> 
+<td align="left" valign="top" width="150"><img border="0" src="IMAGES/ancicarenumber1.gif" width="135" height="19"><br clear="all">
+
+<!-- ecom1 text here --><font size="2" face="helvetica, geneva"><a href="Solution.htm" target="_top" dynamicanimation="fpAnimformatRolloverFP1" fprolloverstyle="font-size: 10pt; color: #FF0000" onmouseover="rollIn(this)" onmouseout="rollOut(this)" language="Javascript1.2">MRI
+  Network for Workers' Compensation</a>&nbsp; AnciCare's preferred rates,
+  convenient access and unwavering commitment to the highest standards uniquely
+  qualifies us to handle your nationwide business.</font>
+  <p><font color="#FFCC00"><b>
+  <marquee scrollamount="4" width="150" height="19">... Nationwide Access!</marquee>
+  </b></font>
+  </p>
+</td>
+
+
+<td align="right" valign="top"><img border="0" src="mri_unit_Grade_9.jpg" width="122" height="185"> </td> </tr>
+
+<!-- end ecom1 -->
+
+
+</table>
+</td></tr>
+
+<tr> <td align="center" valign="top" colspan="2"><img src="yeldot.gif"  height="1"
+width="235" border="0" hspace="0" vspace="0"></td> </tr>
+
+<tr> <td align="left" valign="top" colspan="2">
+
+
+</td> </tr>
+
+
+<!-- end feature 1 -->
+
+
+<tr> <td align="center" valign="top" colspan="2"></td> </tr>
+
+
+<!-- feature 2 -->
+
+
+<tr> <td> 
+
+<table cellspacing="0" cellpadding="5" border="0" width="287"> 
+<tr> 
+<td align="left" valign="top" width="103">
+</td>
+
+
+<!-- end feature 2 -->
+
+
+<td align="left" valign="top" width="36"></td>
+
+
+<!-- feature 3 -->
+
+
+<td valign="top" align="left" width="112">
+ </td>
+
+</tr> </table>
+
+
+<!-- end feature 3 -->
+
+
+</td> </tr> </table>
+
+
+
+<!-- end middle column -->
+
+
+
+<!-- --------------------------------------------------------------------------------------- -->
+
+
+
+<!-- spacer between middle and right columns -->
+
+
+<table cellspacing="0" cellpadding="0" border="0" valign="top" align="left" width="8"> 
+<tr><td></td></tr></table> 
+
+
+<!-- end spacer -->
+
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------------- -->
+
+
+<!-- begin right column -->
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" valign="top" align="left" width="180">
+
+
+
+<!-- ecom 2 -->
+
+
+<tr><td valign="top" align="center"  width="178"><img border="0" src="bic075_Keyboard.jpg" width="112" height="89"></td></tr>
+
+<tr><td align="left" valign="top" width="178"><p><font size="2" face="helvetica, geneva">Our
+    technology, our level of service and our professionals are unmatched in the
+    industry.</font></p>
+    <p>&nbsp;</p>
+</td>
+</tr>
+
+
+<!-- feature of the week -->
+
+
+<tr>
+<td align="left" valign="top" width="178"><img border="0" src="bte048.jpg" width="81" height="114" style="float: right; position: relative; left: -45"></td>
+</tr>
+
+
+<!-- feature 4 -->
+
+
+<tr>
+
+
+<td align="center" valign="top" width="178"><p align="center"><font size="-1" face="helvetica, geneva">You'll
+  Like The Way We Mind Your Business!</font>
+<BR><div align="center"><img border="0" src="IMAGES/@ancicare.gif" style="float: left; position: relative; left: 7" width="143" height="17"></div>
+</td>
+
+</tr>
+</table>
+
+
+<!-- end right column -->
+
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+
+<br clear="all">
+<br>
+
+<!-- legal stuff -->
+
+
+<table cellspacing="0" cellpadding="0" border="0" align="left" width="640">
+<tr>
+
+<td align="left" width="210"></td>
+
+<td align="left" width="420">
+<!-- <p align="center"><font size="1" face="helvetica, geneva">Gameboy image courtesy of Gameboy &copy;1999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p> -->
+<p><font size="1" face="helvetica, geneva">AnciCare name, design and related
+marks are trademarks of AnciCare PPO, Inc.<BR> &copy; 1999 AnciCare PPO, Inc. All Rights Reserved.
+<a href="legal.htm" target="_top" style="color: #FFCC00" dynamicanimation="fpAnimformatRolloverFP1" fprolloverstyle="color: #FF0000; font-size: 7pt; font-weight: bold" onmouseover="rollIn(this)" onmouseout="rollOut(this)" language="Javascript1.2">Legal Notices</a>.</font>
+
+<br>
+<br>
+
+</td></tr></table>
+
+
+
+<!-- end legal -->
+
+</body> 
+</html>
